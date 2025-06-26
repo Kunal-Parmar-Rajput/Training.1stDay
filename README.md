@@ -1,8 +1,27 @@
-# Training.1stDay
-Today was the 1st day of our training . 
-Today we learnt about Linux Operating system.
-How it is different from Windows and mac.
-what are application of Linux in Coding.
-To Install we need to download Virtual box in which Linux actually works.
-It hellp us to use mutltiple operating system at same time.
-Today we also came to know about that most of the comapanies Linux as operating system because of high securities in Linux and it is difficult to hack it and there is very less chances that any virus may corrupt the system.
+
+
+# Day 1 - 25th June 2025
+
+## What I Learned Today
+
+### Comparison: Linux vs Windows
+
+Today, I explored the fundamental differences between **Linux** and **Windows** operating systems. Below are the key points I learned:
+
+* **Linux** is an **open-source** operating system, meaning its source code is publicly available. Anyone can view, modify, and distribute it.
+* **Windows**, on the other hand, is a **closed-source** system controlled solely by Microsoft. Its code is proprietary and not accessible to the public.
+* Linux offers greater **customization**, **security**, and is widely used in servers and development environments.
+* Windows is known for its **user-friendly interface**, wide software support, and compatibility with most commercial applications.
+* Linux distributions (distros) like **Ubuntu** are ideal for programming and system administration, whereas Windows is commonly used for general-purpose computing, gaming, and business applications.
+
+### Download Links
+
+* **Ubuntu Download (Latest Stable Version):**
+  [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
+
+* **Oracle VirtualBox Download (for Virtual Machines):**
+  [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+
+---
+
+Let me know if you'd like to format this as a PDF or slide for presentation.
